@@ -4,7 +4,7 @@
 555 fifth commit
 hot-fix
 1hello,git  master test
-h2ello,git
+h2ello,git hot-fix test
 he3llo,git
 hel4lo,git
 hell5o,git
